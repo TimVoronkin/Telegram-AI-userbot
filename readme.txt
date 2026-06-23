@@ -1,1 +1,0 @@
-Telegram Bot combined with Telegram Userbot for reading and analyzing massages using Geminy AI

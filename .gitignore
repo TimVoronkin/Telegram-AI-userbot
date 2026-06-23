@@ -3,7 +3,7 @@
 
 # Исключения
 !.gitignore
-!readme.txt
+!readme.md
 !requirements.txt
 !Procfile
 !/Python
